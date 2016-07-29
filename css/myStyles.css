@@ -1,0 +1,46 @@
+th {
+  background-color: #ebebeb;
+}
+th, td {
+  text-align: left;
+}
+td {
+  cursor: pointer;
+}
+.row1 {
+  margin: 10px 0px;
+}
+.heading 
+{
+  font-size: 16px;
+  font-weight: bold;
+}
+.sub-heading {
+  font-size: 15px;
+  font-weight: bold;
+}
+.span 
+{
+  height: 10px;
+  display: inline-block;
+}
+.span1 {
+  background-color: #3e6583;
+  margin-right: -4px;
+}
+.span2 {
+  background-color: #808080;
+  margin-right: -5px;
+}
+.span3 {
+  background-color: #ecb527;
+  margin-right: -6px;
+}
+.span4 {
+  background-color: #bb2626;
+  margin-right: -7px;
+}
+.span5 {
+  background-color: #9bc2d7;
+  margin-right: -8px;
+}
